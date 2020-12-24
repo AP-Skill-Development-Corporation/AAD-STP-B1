@@ -1,4 +1,4 @@
-# Batch Number : AAD-STP-
+# Batch Number : AAD-STP-B1
 
 # Workshop Syllabus :
    1. Introduction to Mobile App Development
@@ -6,8 +6,8 @@
    3. Version History of Android 
    4. Android Architecture
    5. Installing the Development Environment
-        a. Installation of Android Studio
-        b. Installation of Android emulator
+        a. Installation of Android Studio 
+        b. Installation of Android emulator 
         c. Connecting the physical device with the IDE
    6. Creating the first application 
    7. Hello World
