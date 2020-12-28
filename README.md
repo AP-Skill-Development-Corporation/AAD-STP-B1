@@ -1,5 +1,7 @@
 # Batch Number : AAD-STP-B1
 
+ [Attendance Link](https://docs.google.com/spreadsheets/d/1rS527ltsx5JeAVIogqLxKl8Htg-SCZAw2C0kDaAnRtE/edit?usp=sharing)
+ 
 # Workshop Syllabus :
    1. Introduction to Mobile App Development
    2. History of Mobile evolution
