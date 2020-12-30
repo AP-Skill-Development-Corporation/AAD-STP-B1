@@ -7,3 +7,6 @@
 [Day 4 26-12-2020 saterday Hello Toast app ](https://transcripts.gotomeeting.com/#/s/302873ba098edcce315fe13ce4ed375da4cb4d414c011ac56f7b0f8832af1e6b)
 
 [Day 5 28-12-2020 scrollview and textview ](https://transcripts.gotomeeting.com/#/s/c0c1aefbd800337bd3152320ada4a5b20d115f0e3b8bdd440b24a03dde7064c0)
+
+[Day 6 29-12-2020 Intents ](https://transcripts.gotomeeting.com/#/s/46685d5dc14455edd7630685b07779992be13aebaa7b2df250aab791362e023e)
+
