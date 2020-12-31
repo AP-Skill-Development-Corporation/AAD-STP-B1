@@ -10,3 +10,6 @@
 
 [Day 6 29-12-2020 Intents ](https://transcripts.gotomeeting.com/#/s/46685d5dc14455edd7630685b07779992be13aebaa7b2df250aab791362e023e)
 
+[Day 7 30-12-2020 Activity LifeCycle and Input Controls](https://transcripts.gotomeeting.com/#/s/503d7b2d11f54513bc9556c3169082318e5bbe78727230cc611aa4e152d0a90c)
+
+[Day 8 31-12-2020 Input Controls and Dailogs,Pickers](https://transcripts.gotomeeting.com/#/s/802a2b1ee440726c34090881e48a5c0c7de656709377031445cf4952ee43cd4d)
