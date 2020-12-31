@@ -41,28 +41,27 @@ public class MainActivity extends AppCompatActivity {
         String mail = umail.getText().toString();
         String number = uphone.getText().toString();
         int rid = rg.getCheckedRadioButtonId();
-        rb = findViewById(rid);
-        String gender = rb.getText().toString();
         String branch = sp.getSelectedItem().toString();
         StringBuilder builder = new StringBuilder();
         if (tel.isChecked()){
-            builder.append("Telugu"+",");
+            builder.append("Telugu");
         }
         if (hin.isChecked()){
-            builder.append("Hindi"+",");
+            builder.append(","+"Hindi");
         }
         if (eng.isChecked()){
-            builder.append("English"+"");
+            builder.append(","+"English");
         }
-        if (name.isEmpty()) {
-            uname.setError("Is Mandatory");
-        }
-        if (mail.isEmpty()){
-            umail.setError("Is Mandatory");
+        if (name.isEmpty()|mail.isEmpty()|number.isEmpty()
+                |builder.toString().isEmpty()|(sp.getSelectedItemPosition()==0)
+                |(rid==-1)){
+            Toast.makeText(this, "Please fill all the Details",
+                    Toast.LENGTH_SHORT).show();
         }
         else{
+            rb = findViewById(rid);
             Log.i("APSSDC",name+"\n"+mail+"\n"+number+"\n"+
-                    gender+"\n"+branch+"\n"+builder.toString());
+                    branch+"\n"+builder.toString()+"\n"+rb.getText().toString());
         }
     }
 }
