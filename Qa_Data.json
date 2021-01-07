@@ -2,20 +2,20 @@
     "questions": [
         {
             "question": "What is farming?",
-            "answer": "According to the Dictionary definition, “Farming is the act or process of working the ground, planting seeds, and growing edible plants. You can also describe raising animals for milk or meat as farming… Farming is a great way to describe the lifestyle and work of people whose jobs are in the agriculture industry.” The noun “farm,” which derives from the Medieval Latin Firma, originally meant, “A lease on farm land.”",
+            "answer": "According to the Dictionary definition, “Farming is the act or process of working the ground, planting seeds, and growing edible plants. You can also describe raising animals for milk or meat as farming… Farming is a great way to describe the lifestyle and work of people whose jobs are in the agriculture industry.” The noun “farm,” which derives from the Medieval Latin Firma, originally meant, “A lease on farm land.”
             
         },
         {
             "question": "How important is agriculture to the overall economy?",
-            "answer": "Agriculture makes up about 4.5% of the nominal Gross Domestic Product of the United States. Though, in many other countries, agriculture contributes 5-10 times as much to the GDP.",
+            "answer": "Agriculture makes up about 4.5% of the nominal Gross Domestic Product of the United States. Though, in many other countries, agriculture contributes 5-10 times as much to the GDP."
         },
         {
            "question": "Why is agriculture important?",
-            "answer": "Agriculture plays a crucial role in the economy of developing countries, and provides the main source of food, income, and employment to rural populations. For many countries, agriculture is a leading economic source, with those countries helping to provide some of the US’s food as well.",
+            "answer": "Agriculture plays a crucial role in the economy of developing countries, and provides the main source of food, income, and employment to rural populations. For many countries, agriculture is a leading economic source, with those countries helping to provide some of the US’s food as well."
         },
 	{
             "question": "What is soil health?",
-            "answer": "Agriculture makes up about 4.5% of the nominal Gross Domestic Product of the United States. Though, in many other countries, agriculture contributes 5-10 times as much to the GDP.",
+            "answer": "Agriculture makes up about 4.5% of the nominal Gross Domestic Product of the United States. Though, in many other countries, agriculture contributes 5-10 times as much to the GDP."
         }
     ]
 }
