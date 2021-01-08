@@ -1,5 +1,95 @@
 {
     "questions": [
+	{
+            "question": "What do you mean by cultivation?",
+            "answer": "Cultivation is the act of caring for or raising plants. Your desire to grow your own fruits and vegetables in the backyard means you'll be engaged in some heavy cultivation. The word cultivation is most often used to talk about the ways that farmers take care of crops.",
+            
+        },
+	    {
+            "question": "What is cultivation of soil?",
+            "answer": "Cultivation, also known as tilling or soil refinement, is the act of digging into or cutting up an existing soil bed to better prepare it for planting. You might use a tractor, a rototiller, or hand tools such as a shovel or soil fork.",
+            
+        },
+	     {
+            "question": "What is the use of cultivation?",
+            "answer": "Cultivation, Loosening and breaking up (tilling) of the soil. ... The soil around existing plants is cultivated (by hand using a hoe, or by machine using a cultivator) to destroy weeds and promote growth by increasing soil aeration and water infiltration.",
+            
+        },
+	     {
+            "question": "What is Shifting Cultivation?",
+            "answer": "Shifting cultivation is commonly practiced in the tropics. It involves forest clearance through burning and slashing. The cleared land is cultivated until its fertility declines, or for three to five years or until native flora and weeds overtake it. When that happens, farmers abandon the land for a fallow period and clear another forest area for cultivation.",
+            
+        },
+	     {
+            "question": "What is Nomadic Herding?",
+            "answer": "Nomadic herding is the practice of keeping and grazing animals on natural pastures. It is common in the arid and semi-arid regions such as certain parts of Saudi Arabia, northern Africa and northern parts of Eurasia. The practice resembles pastoral farming.",
+            
+        },
+	     {
+            "question": "what is Rudimentary Sedentary Tillage?",
+            "answer": "Unlike other types of agricultural activities, rudimentary sedentary cultivation is a type of subsistence farming practiced on the same piece of land year-in, year-out. Land is then left fallow after some years to regain its soil fertility. It is commonly practiced in the tropics and involves the growth of tree crops such as the Para rubber tree and grains.",
+            
+        },
+	     {
+            "question": "What is Livestock Ranching/Pastoral Farming?",
+            "answer": "Livestock ranching focuses on rearing animals. Unlike nomadic herding, farmers do not move from one place to another in search of pasture and water, but live in settlements. Pasture lands are developed for grazing the animals. Many areas across the globe with large pieces of land with enough grazing areas for animals ",
+            
+        },
+	     {
+            "question": "What is Commercial Plantations?",
+            "answer": "Also known as tree crop farming, industrialized agriculture or plantation farming, commercial plantations cover large land areas. Even if practiced on a smaller piece of land, the activity has a high commercial value. It involves the cultivation of tropical crops such as tea, rubber, coffee, coconut, cocoa, grapes, apples, spices, oranges, avocado, mangoes and palm oil.",
+            
+        },
+	     {
+            "question": "What is Mixed Farming?",
+            "answer": "Also known as grain and livestock farming, mixed farming involves the growing of crops and rearing of animals. It has its origins in the humid, mid-latitudes, excluding Asia. It is an agricultural activity with its roots mainly in Europe. Mixed farming develops in close relation to market infrastructure. It is commonly practiced in New Zealand and Great Britain.",
+            
+        },
+	     {
+            "question": "what is Specialized Horticulture?",
+            "answer": "Increased demand for horticultural products in highly urbanized areas with dense populations led to the development of specialized horticulture. It has been successfully adopted in northern Hungary, France and the Swiss Lake regions for vineyard cultivation.",
+            
+        },
+	     {
+            "question": "What is Subsistence Farming",
+            "answer": "Subsistence farming involves growing crops and keeping animals for the sole purpose of feeding the farmer and his family. It involves the use of simple farm tools on small pieces of land. Most subsistence farmers are believed to be poor and thus cannot afford to buy improved seeds and fertilizers. Therefore, they farm on land with low soil fertility or rough terrains.",
+            
+        },
+	     {
+            "question": "What is Mediterranean Agriculture?",
+            "answer": "Mediterranean agriculture involves the rearing of animals and growing of crops in the rugged, Mediterranean terrain. Small animals and crops such as citrus fruits, vineyards and wheat are the crops mainly grown in the region. Horticulture is also practiced with the majority of crops sown in winter due to winter rains.",
+            
+        },
+	     {
+            "question": " What is Dairy Farming?",
+            "answer": "Dairy farming involves the rearing of cattle for milk. With its origins in Europe, the activity is highly developed in Sweden and Denmark. However, it has spread to other parts of the world and is practiced in areas near markets. It thrives in regions that enjoy temperate climate.",
+            
+        },
+	     {
+            "question": " What is Commercial Grain Farming?",
+            "answer": "Commercial grain farming resulted from mechanization of farms. It is mainly practiced in areas with less-dense population and low rainfall. The grains grown in these areas are drought and weather hardy and thus can survive in dry conditions. Mainly adopted in steppes, prairies and the temperate grasslands of Australia and South America, the activity mainly involves wheat monoculture.",
+            
+        },
+	     {
+            "question": "what is Arable Farming?",
+            "answer": "Arable farming, unlike pastoral or mixed farming, involves the growing of crops without keeping animals. It can be practiced on a large, commercial or small scale. Annual crops such as plantains, vegetables, grains, cassava, potatoes and legumes are often grown in arable farms.",
+            
+        },
+	     {
+            "question": "What is Kharif Crops?",
+            "answer": "The crops which are grown in the monsoon season are known as Kharif crops. For eg., maize, millet, and cotton.The seeds are sown at the beginning of monsoon season and harvested at the end of the monsoon season.Such crops require a lot of water and hot weather for proper growth.",
+            
+        },
+	     {
+            "question": "What is Rabi Crops?",
+            "answer": "The name “Rabi” means “spring” – a word derived from Arabic.The crops that are grown in the winter season and harvested in the spring are called Rabi crops.Wheat, gram, and mustard are some of the Rabi crops.Various agricultural practices are carried out to produce new crop varieties.Such crops require a warm climate for the germination and maturation of seeds. They, however, require a cold climate for their growth.",
+            
+        },
+	     {
+            "question": "What is Zaid Crops?",
+            "answer": "Such crops are grown between the Kharif and Rabi seasons, i.e., between March and June.These crops mature early.Cucumber, pumpkin, bitter gourd, and watermelon are zaid crops.",
+            
+        },
         {
             "question": "What is farming?",
             "answer": "According to the Dictionary definition, “Farming is the act or process of working the ground, planting seeds, and growing edible plants. You can also describe raising animals for milk or meat as farming… Farming is a great way to describe the lifestyle and work of people whose jobs are in the agriculture industry.” The noun “farm,” which derives from the Medieval Latin Firma, originally meant, “A lease on farm land.”",
